@@ -3,7 +3,7 @@
 //
 // BoF :: "_jsx_forward_on_redirect_include.php"
 //
-// 2009/02/02 - 10:00
+// 2015/05/26 - 20:00
 ///////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////
@@ -18,9 +18,9 @@ $g_sDomainRedirected = "http://www.mysite.com/";
 //
 // Pages array.
 $g_JSXaPages   = array( );
-$g_JSXaPages[] = array( 'title' => "Home Page"    , 'url' => "mysite_home.php"     );
-$g_JSXaPages[] = array( 'title' => "Gallery Page" , 'url' => "mysite_gallery.php"  );
-$g_JSXaPages[] = array( 'title' => "Get Contacts" , 'url' => "mysite_contacts.php" );
+$g_JSXaPages[] = array( 'title' => "Home Page"    , 'url' => "home_page.php"    );
+$g_JSXaPages[] = array( 'title' => "Gallery Page" , 'url' => "the_gallery.php"  );
+$g_JSXaPages[] = array( 'title' => "Get Contacts" , 'url' => "get_contacts.php" );
 
 ///////////////////////////////////////////////////////////////////
 
