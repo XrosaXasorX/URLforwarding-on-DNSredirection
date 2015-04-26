@@ -23,9 +23,9 @@ Usage:
 
 
 ###################################################################
-// JESAX.NET [ http://www.jesax.net/ ] 
-// JAVA/script Environmental Subroutines for Accessible XML 
-// EoF :: "README.md"
-// (C) CopyRight JESAX.net / SagoSoft.it [1984 - 2015] 
-// Last update: 2015/05/26 - 20:00 
+ JESAX.NET [ http://www.jesax.net/ ] 
+ JAVA/script Environmental Subroutines for Accessible XML 
+ EoF :: "README.md"
+ (C) CopyRight JESAX.net / SagoSoft.it [1984 - 2015] 
+ Last update: 2015/05/26 - 20:00 
 ###################################################################
