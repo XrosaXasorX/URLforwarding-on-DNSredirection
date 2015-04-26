@@ -7,8 +7,11 @@ Implements URL-forwarding on DNS-redirected Web-Sites.
 Example:
 
 http://www.mysite.com/?home_page.php
+
 http://www.mysite.com/?the_gallery.php
+
 http://www.mysite.com/?get_contacts.php
+
 
 Usage:
 
