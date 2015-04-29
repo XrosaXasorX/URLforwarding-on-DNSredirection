@@ -2,7 +2,8 @@
 
 URL-forwarding on DNS-redirected Web-Sites.
 
-Implements URL-forwarding on DNS-redirected Web-Sites.
+PHP source code that implements an URL.Forwarding technique, on DNS.Redirected web-sites, through an URL.Rewrite-like technique.
+
 
 Example:
 
